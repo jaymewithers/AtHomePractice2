@@ -8,6 +8,8 @@
       <e p="Assets" t="Include">
         <e p="scripts" t="Include">
           <e p="NewClassOne.cs" t="Include" />
+          <e p="NewClassThree.cs" t="Include" />
+          <e p="NewClassTwo.cs" t="Include" />
         </e>
       </e>
       <e p="AtHomePractice.sln" t="IncludeFlat" />

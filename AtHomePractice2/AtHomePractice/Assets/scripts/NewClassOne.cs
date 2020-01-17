@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewClassOne : MonoBehaviour
+public partial class NewClassOne : MonoBehaviour
 {
     private Renderer _renderer;
     private Renderer _renderer1;
@@ -22,6 +22,7 @@ public class NewClassOne : MonoBehaviour
         {
             _renderer.material.color = Color.red;
         }
+
         if (Input.GetKeyDown(KeyCode.G))
         {
             _renderer1.material.color = Color.green;
@@ -33,3 +34,4 @@ public class NewClassOne : MonoBehaviour
         }
     }
 }
+
