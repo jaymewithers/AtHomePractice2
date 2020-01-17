@@ -7,6 +7,7 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="scripts" t="Include">
+          <e p="ForLoop.cs" t="Include" />
           <e p="NewClassFour.cs" t="Include" />
           <e p="NewClassOne.cs" t="Include" />
           <e p="NewClassThree.cs" t="Include" />

@@ -13,6 +13,8 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/scripts/NewClassTwo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/NewClassOne.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/ForLoop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/NewClassFour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/NewClassThree.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -22,6 +24,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/NewClassTwo.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/NewClassThree.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/NewClassFour.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/ForLoop.cs" />
       </list>
     </option>
   </component>
@@ -80,7 +83,8 @@
       <workItem from="1579197708311" duration="536000" />
       <workItem from="1579287214533" duration="4000" />
       <workItem from="1579287249230" duration="432000" />
-      <workItem from="1579288010062" duration="230000" />
+      <workItem from="1579288010062" duration="410000" />
+      <workItem from="1579288704789" duration="242000" />
     </task>
     <servers />
   </component>
