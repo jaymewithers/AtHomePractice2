@@ -12,13 +12,13 @@ public class ScopeAndAccessModifiers : MonoBehaviour
 
     private AnotherClass myOtherClass;
         
-        Void Start ()
-        {
-            Debug.Log("Alpha is set to: " + alpha);
-            alpha = 29;
+    Void Start ()
+    {
+        Debug.Log("Alpha is set to: " + alpha);
+        alpha = 29;
             
-            myOtherClass = new AnotherClass();
-            AnotherClass.FruitMachine(alpha, myOtherClass.Apples);
+        myOtherClass = new AnotherClass();
+        AnotherClass.FruitMachine(alpha, myOtherClass.Apples);
         }
 
         void Example (int pens, int crayons)

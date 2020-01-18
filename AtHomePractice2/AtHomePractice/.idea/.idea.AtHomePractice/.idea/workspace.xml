@@ -13,6 +13,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/scripts/NewClassTwo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/NewClassOne.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AnotherClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/ForLoop.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/ForEachLoop.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/NewClassFour.cs" root0="FORCE_HIGHLIGHTING" />
@@ -90,7 +91,7 @@
       <workItem from="1579287249230" duration="432000" />
       <workItem from="1579288010062" duration="410000" />
       <workItem from="1579288704789" duration="800000" />
-      <workItem from="1579370794874" duration="1759000" />
+      <workItem from="1579370794874" duration="2556000" />
     </task>
     <servers />
   </component>
