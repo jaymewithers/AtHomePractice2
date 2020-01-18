@@ -18,7 +18,7 @@ public class ScopeAndAccessModifiers : MonoBehaviour
             alpha = 29;
             
             myOtherClass = new AnotherClass();
-            myOtherClass.FruitMachine(alpha, myOtherClass.apples);
+            AnotherClass.FruitMachine(alpha, myOtherClass.Apples);
         }
 
         void Example (int pens, int crayons)
