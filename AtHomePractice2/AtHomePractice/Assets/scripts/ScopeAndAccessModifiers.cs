@@ -11,20 +11,19 @@ public class ScopeAndAccessModifiers : MonoBehaviour
     private int gamma = 5;
 
     private AnotherClass myOtherClass;
-        
-    Void Start ()
+
+    public void Start ()
     {
         Debug.Log("Alpha is set to: " + alpha);
         alpha = 29;
             
-        myOtherClass = new AnotherClass();
+        myOtherClass = gameObject.AddComponent<AnotherClass>();
         AnotherClass.FruitMachine(alpha, myOtherClass.Apples);
         }
 
-        void Example (int pens, int crayons)
+    private void Example (int pens, int crayons)
         {
-            int answer;
-            answer = pens * crayons * alpha;
+            var answer = pens * crayons * alpha;
             Debug.Log(answer);
         }
 }
