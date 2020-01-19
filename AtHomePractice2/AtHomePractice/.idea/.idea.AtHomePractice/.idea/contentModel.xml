@@ -16,6 +16,7 @@
           <e p="NewClassThree.cs" t="Include" />
           <e p="NewClassTwo.cs" t="Include" />
           <e p="ScopeAndAccessModifiers.cs" t="Include" />
+          <e p="UpdateFixedUpdate.cs" t="Include" />
         </e>
       </e>
       <e p="AtHomePractice.sln" t="IncludeFlat" />

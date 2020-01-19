@@ -16,6 +16,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AnotherClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/ForLoop.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/ForEachLoop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/UpdateFixedUpdate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/NewClassFour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AwakeAndStart.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/NewClassThree.cs" root0="FORCE_HIGHLIGHTING" />
@@ -33,6 +34,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AnotherClass.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/AwakeAndStart.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/ScopeAndAccessModifiers.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/UpdateFixedUpdate.cs" />
       </list>
     </option>
   </component>
@@ -94,6 +96,8 @@
       <workItem from="1579288010062" duration="410000" />
       <workItem from="1579288704789" duration="800000" />
       <workItem from="1579370794874" duration="3556000" />
+      <workItem from="1579455485412" duration="482000" />
+      <workItem from="1579456011200" duration="248000" />
     </task>
     <servers />
   </component>

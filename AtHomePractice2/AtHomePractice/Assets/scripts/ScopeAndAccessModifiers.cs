@@ -27,3 +27,7 @@ public class ScopeAndAccessModifiers : MonoBehaviour
             Debug.Log(answer);
         }
 }
+
+class ScopeAndAccessModifiersImpl : ScopeAndAccessModifiers
+{
+}
