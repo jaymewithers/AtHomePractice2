@@ -9,6 +9,7 @@
         <e p="scripts" t="Include">
           <e p="AnotherClass.cs" t="Include" />
           <e p="AwakeAndStart.cs" t="Include" />
+          <e p="EnableAndDisenable.cs" t="Include" />
           <e p="ForEachLoop.cs" t="Include" />
           <e p="ForLoop.cs" t="Include" />
           <e p="NewClassFour.cs" t="Include" />
