@@ -327,7 +327,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 869933278}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 126b2652132898f49a47ff26f569df7e, type: 3}
   m_Name: 
@@ -348,6 +348,8 @@ GameObject:
   - component: {fileID: 1321175011}
   - component: {fileID: 1321175005}
   - component: {fileID: 1321175012}
+  - component: {fileID: 1321175013}
+  - component: {fileID: 1321175014}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -463,7 +465,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7c4f5a31fc7f8674db3a9424d9964d3e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  alpha: 5
+  alpha: 6
 --- !u!114 &1321175012
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -478,6 +480,31 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Apples: 5
   bananas: 6
+--- !u!114 &1321175013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1321175004}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a590977c0a88b824baa30e195c2121dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1321175014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1321175004}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6db254cd0a5e3a74995ad3773db27c58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  myObject: {fileID: 1321175004}
 --- !u!1 &1800690750
 GameObject:
   m_ObjectHideFlags: 0
@@ -560,7 +587,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1899593141}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 271a075c90164434794aa4ea298606ec, type: 3}
   m_Name: 

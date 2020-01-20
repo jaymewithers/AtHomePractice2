@@ -10,6 +10,7 @@
           <e p="ActiveObjects.cs" t="Include" />
           <e p="AnotherClass.cs" t="Include" />
           <e p="AwakeAndStart.cs" t="Include" />
+          <e p="CheckState.cs" t="Include" />
           <e p="EnableAndDisenable.cs" t="Include" />
           <e p="ForEachLoop.cs" t="Include" />
           <e p="ForLoop.cs" t="Include" />

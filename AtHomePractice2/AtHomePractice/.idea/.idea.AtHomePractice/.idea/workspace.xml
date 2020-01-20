@@ -15,12 +15,14 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/NewClassOne.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AnotherClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/ForLoop.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/ForEachLoop.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/UpdateFixedUpdate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/NewClassFour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/EnableAndDisenable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AwakeAndStart.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/NewClassThree.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/CheckState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/ForEachLoop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/UpdateFixedUpdate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/ActiveObjects.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/ScopeAndAccessModifiers.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -37,6 +39,8 @@
         <option value="$PROJECT_DIR$/Assets/scripts/ScopeAndAccessModifiers.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/UpdateFixedUpdate.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/EnableAndDisenable.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/ActiveObjects.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/CheckState.cs" />
       </list>
     </option>
   </component>
@@ -100,6 +104,7 @@
       <workItem from="1579370794874" duration="3556000" />
       <workItem from="1579455485412" duration="482000" />
       <workItem from="1579456011200" duration="1282000" />
+      <workItem from="1579551389349" duration="332000" />
     </task>
     <servers />
   </component>
