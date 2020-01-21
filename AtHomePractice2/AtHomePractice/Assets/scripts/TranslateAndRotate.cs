@@ -12,19 +12,12 @@ public class TranslateAndRotate : MonoBehaviour
     void Update ()
     {
         if(Input.GetKey(KeyCode.UpArrow))
-            transform.Translate(Vector3.forward *moveSpeed * Time.deltaTime);
+            transform.Translate(Vector3.forward * moveSpeed * Time.deltaTime);
         if(Input.GetKey(KeyCode.DownArrow))
-            transform.Translate(-Vector3.forward *moveSpeed * Time.deltaTime);
+            transform.Translate(-Vector3.forward * moveSpeed * Time.deltaTime);
         if(Input.GetKeyDown(KeyCode.LeftArrow))
             transform.Rotate(Vector3.up, -turnSpeed * Time.deltaTime);
-        {
-            
-        }
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        if(Input.GetKey(KeyCode.RightArrow))
+            transform.Rotate(Vector3.up, turnSpeed * Time.deltaTime);
     }
 }
