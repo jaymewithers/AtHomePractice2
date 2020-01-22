@@ -10,3 +10,5 @@ public class ActiveObjects : MonoBehaviour
         gameObject.SetActive(false);
     }
 }
+
+// unity tutorial

@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class EnableAndDisenable : MonoBehaviour
 {
     private Light myLight;
@@ -20,3 +21,5 @@ public class EnableAndDisenable : MonoBehaviour
         }
     }
 }
+
+// unity tutorial

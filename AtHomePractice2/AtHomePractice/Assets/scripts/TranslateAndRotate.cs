@@ -21,3 +21,5 @@ public class TranslateAndRotate : MonoBehaviour
             transform.Rotate(Vector3.up, turnSpeed * Time.deltaTime);
     }
 }
+
+// unity tutorial

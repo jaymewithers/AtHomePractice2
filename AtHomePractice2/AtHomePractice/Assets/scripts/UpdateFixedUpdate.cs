@@ -15,3 +15,5 @@ public class UpdateFixedUpdate : MonoBehaviour
         Debug.Log("Update time :" + Time.deltaTime);
     }
 }
+
+// unity tutorial

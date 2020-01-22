@@ -12,3 +12,5 @@ public class CheckState : MonoBehaviour
         Debug.Log("Active in Hierarchy" + myObject.activeInHierarchy);
     }
 }
+
+// unity tutorial
