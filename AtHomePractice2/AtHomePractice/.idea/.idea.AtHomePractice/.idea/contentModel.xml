@@ -11,13 +11,13 @@
           <e p="AnotherClass.cs" t="Include" />
           <e p="AwakeAndStart.cs" t="Include" />
           <e p="CheckState.cs" t="Include" />
+          <e p="ColorChanger.cs" t="Include" />
           <e p="Destroy.cs" t="Include" />
           <e p="EnableAndDisenable.cs" t="Include" />
           <e p="ForEachLoop.cs" t="Include" />
           <e p="ForLoop.cs" t="Include" />
           <e p="LookAt.cs" t="Include" />
           <e p="NewClassFour.cs" t="Include" />
-          <e p="NewClassOne.cs" t="Include" />
           <e p="NewClassThree.cs" t="Include" />
           <e p="NewClassTwo.cs" t="Include" />
           <e p="ScopeAndAccessModifiers.cs" t="Include" />

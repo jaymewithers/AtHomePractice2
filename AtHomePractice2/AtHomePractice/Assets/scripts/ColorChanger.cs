@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public partial class NewClassOne : MonoBehaviour
+public partial class ColorChanger : MonoBehaviour
 {
     private Renderer _renderer;
     private Renderer _renderer1;
