@@ -15,6 +15,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/NewClassOne.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AnotherClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/ForLoop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/LookAt.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/NewClassFour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/EnableAndDisenable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/AwakeAndStart.cs" root0="FORCE_HIGHLIGHTING" />
@@ -24,6 +25,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TranslateAndRotate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/UpdateFixedUpdate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/ActiveObjects.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Destroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/ScopeAndAccessModifiers.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -43,6 +45,8 @@
         <option value="$PROJECT_DIR$/Assets/scripts/AwakeAndStart.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/ForLoop.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/ForEachLoop.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/LookAt.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Destroy.cs" />
       </list>
     </option>
   </component>
@@ -110,6 +114,7 @@
       <workItem from="1579630313045" duration="248000" />
       <workItem from="1579630840187" duration="201000" />
       <workItem from="1579714470899" duration="156000" />
+      <workItem from="1579799114622" duration="1331000" />
     </task>
     <servers />
   </component>
