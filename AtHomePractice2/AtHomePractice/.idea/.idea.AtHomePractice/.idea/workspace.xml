@@ -11,9 +11,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/Tutorials/ScopeAndAccessModifiers.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TriggerEnter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Tutorials/ScopeAndAccessModifiers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable Objects/IntData.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -43,6 +44,8 @@
         <option value="$PROJECT_DIR$/Assets/scripts/UsingDeltaTime.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Tutorials/ScopeAndAccessModifiers.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/TriggerEnter.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Scriptable Objects/Int Data.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Scriptable Objects/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/CharacterMover.cs" />
       </list>
     </option>
@@ -116,6 +119,8 @@
       <workItem from="1580233522642" duration="213000" />
       <workItem from="1580235293958" duration="53000" />
       <workItem from="1590546474217" duration="873000" />
+      <workItem from="1590771556449" duration="442000" />
+      <workItem from="1590772031593" duration="93000" />
     </task>
     <servers />
   </component>
