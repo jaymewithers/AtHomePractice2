@@ -9,6 +9,7 @@
         <e p="scripts" t="Include">
           <e p="CharacterMover.cs" t="Include" />
           <e p="Scriptable Objects" t="Include">
+            <e p="Debugger.cs" t="Include" />
             <e p="IntData.cs" t="Include" />
           </e>
           <e p="TriggerEnter.cs" t="Include" />
@@ -27,7 +28,6 @@
             <e p="NewClassFour.cs" t="Include" />
             <e p="NewClassThree.cs" t="Include" />
             <e p="NewClassTwo.cs" t="Include" />
-            <e p="ScopeAndAccessModifiers.cs" t="Include" />
             <e p="TranslateAndRotate.cs" t="Include" />
             <e p="UpdateFixedUpdate.cs" t="Include" />
             <e p="UsingDeltaTime.cs" t="Include" />

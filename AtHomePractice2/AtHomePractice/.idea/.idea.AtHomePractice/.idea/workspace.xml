@@ -12,8 +12,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TriggerEnter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable Objects/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/Tutorials/ScopeAndAccessModifiers.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable Objects/IntData.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -47,6 +47,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/Scriptable Objects/Int Data.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Scriptable Objects/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/CharacterMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Scriptable Objects/Debugger.cs" />
       </list>
     </option>
   </component>
@@ -121,6 +122,7 @@
       <workItem from="1590546474217" duration="873000" />
       <workItem from="1590771556449" duration="442000" />
       <workItem from="1590772031593" duration="93000" />
+      <workItem from="1591116028659" duration="68000" />
     </task>
     <servers />
   </component>
