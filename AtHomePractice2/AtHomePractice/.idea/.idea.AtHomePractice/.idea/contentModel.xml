@@ -8,11 +8,14 @@
       <e p="Assets" t="Include">
         <e p="scripts" t="Include">
           <e p="CharacterMover.cs" t="Include" />
+          <e p="Coroutine.cs" t="Include" />
+          <e p="HoldCoroutine.cs" t="Include" />
           <e p="Scriptable Objects" t="Include">
             <e p="Debugger.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />
             <e p="IntData.cs" t="Include" />
           </e>
+          <e p="SimpleCoroutine.cs" t="Include" />
           <e p="TriggerEnter.cs" t="Include" />
           <e p="Tutorials" t="Include">
             <e p="ActiveObjects.cs" t="Include" />

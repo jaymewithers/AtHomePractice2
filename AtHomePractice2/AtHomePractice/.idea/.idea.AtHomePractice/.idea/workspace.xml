@@ -13,7 +13,11 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TriggerEnter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable Objects/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../jayme_1610spring2020/Project1/Assets/scripts/Coroutines.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Coroutine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable Objects/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/HoldCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/SimpleCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable Objects/IntData.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -50,6 +54,9 @@
         <option value="$PROJECT_DIR$/Assets/scripts/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Scriptable Objects/Debugger.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Scriptable Objects/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/SimpleCoroutine.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/HoldCoroutine.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Coroutine.cs" />
       </list>
     </option>
   </component>
@@ -124,7 +131,8 @@
       <workItem from="1590546474217" duration="873000" />
       <workItem from="1590771556449" duration="442000" />
       <workItem from="1590772031593" duration="93000" />
-      <workItem from="1591116028659" duration="220000" />
+      <workItem from="1591116028659" duration="250000" />
+      <workItem from="1591553330343" duration="818000" />
     </task>
     <servers />
   </component>
