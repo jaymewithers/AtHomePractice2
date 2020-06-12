@@ -20,6 +20,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/HoldCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/SimpleCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Behaviors/NavAgentBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable Objects/IntData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Behaviors/ImageBehavior.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -61,6 +62,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/Coroutine.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Health.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/ImageBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/NavAgentBehavior.cs" />
       </list>
     </option>
   </component>
@@ -138,6 +140,7 @@
       <workItem from="1591116028659" duration="250000" />
       <workItem from="1591553330343" duration="818000" />
       <workItem from="1591723823550" duration="352000" />
+      <workItem from="1591919467703" duration="538000" />
     </task>
     <servers />
   </component>
