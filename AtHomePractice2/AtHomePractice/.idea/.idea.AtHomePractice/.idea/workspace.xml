@@ -14,6 +14,7 @@
     <setting file="file://$PROJECT_DIR$/../../../../jayme_1610spring2020/Project1/Assets/scripts/Coroutines.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable Objects/Vector3Data.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/HoldCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Flip.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Behaviors/ImageBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TriggerEnter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable Objects/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -67,6 +68,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/NavAgentBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Scriptable Objects/StringData.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Scriptable Objects/Vector3Data.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Flip.cs" />
       </list>
     </option>
   </component>
@@ -146,6 +148,7 @@
       <workItem from="1591723823550" duration="352000" />
       <workItem from="1591919467703" duration="538000" />
       <workItem from="1592880070195" duration="355000" />
+      <workItem from="1592955529822" duration="340000" />
     </task>
     <servers />
   </component>
