@@ -16,6 +16,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/HoldCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Flip.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Behaviors/ImageBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Behaviors/BasicTextBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TriggerEnter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable Objects/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Health.cs" root0="FORCE_HIGHLIGHTING" />
@@ -69,6 +70,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/Scriptable Objects/StringData.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Scriptable Objects/Vector3Data.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Flip.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/BasicTextBehavior.cs" />
       </list>
     </option>
   </component>
@@ -149,6 +151,7 @@
       <workItem from="1591919467703" duration="538000" />
       <workItem from="1592880070195" duration="355000" />
       <workItem from="1592955529822" duration="340000" />
+      <workItem from="1593104179659" duration="162000" />
     </task>
     <servers />
   </component>
