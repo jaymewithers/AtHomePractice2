@@ -12,6 +12,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Behaviors/TextBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Behaviors/InstancingBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../jayme_1610spring2020/Project1/Assets/scripts/Coroutines.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable Objects/Vector3Data.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/HoldCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
@@ -76,6 +77,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/TextBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/ChsracterWeaponSwitch.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/CharacterWeaponSw.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/InstancingBehavior.cs" />
       </list>
     </option>
   </component>
@@ -159,6 +161,7 @@
       <workItem from="1593104179659" duration="162000" />
       <workItem from="1593282756270" duration="144000" />
       <workItem from="1593534018014" duration="265000" />
+      <workItem from="1593902265428" duration="111000" />
     </task>
     <servers />
   </component>

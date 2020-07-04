@@ -10,6 +10,7 @@
           <e p="Behaviors" t="Include">
             <e p="BasicTextBehavior.cs" t="Include" />
             <e p="ImageBehavior.cs" t="Include" />
+            <e p="InstancingBehavior.cs" t="Include" />
             <e p="NavAgentBehavior.cs" t="Include" />
             <e p="TextBehavior.cs" t="Include" />
           </e>
