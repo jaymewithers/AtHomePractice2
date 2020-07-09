@@ -25,6 +25,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Health.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Coroutine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable Objects/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/IfElseStatement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/SimpleCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Behaviors/NavAgentBehavior.cs" root0="FORCE_HIGHLIGHTING" />
@@ -78,6 +79,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/ChsracterWeaponSwitch.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/CharacterWeaponSw.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/InstancingBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/IfElseStatement.cs" />
       </list>
     </option>
   </component>
@@ -162,6 +164,7 @@
       <workItem from="1593282756270" duration="144000" />
       <workItem from="1593534018014" duration="265000" />
       <workItem from="1593902265428" duration="111000" />
+      <workItem from="1594312112183" duration="332000" />
     </task>
     <servers />
   </component>
