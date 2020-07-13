@@ -17,6 +17,7 @@
           <e p="CharacterMover.cs" t="Include" />
           <e p="CharacterWeaponSw.cs" t="Include" />
           <e p="Coroutine.cs" t="Include" />
+          <e p="EnumSwitches.cs" t="Include" />
           <e p="Flip.cs" t="Include" />
           <e p="Health.cs" t="Include" />
           <e p="HoldCoroutine.cs" t="Include" />
