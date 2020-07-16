@@ -22,6 +22,7 @@
           <e p="Health.cs" t="Include" />
           <e p="HoldCoroutine.cs" t="Include" />
           <e p="IfElseStatement.cs" t="Include" />
+          <e p="MouseShooter.cs" t="Include" />
           <e p="Scriptable Objects" t="Include">
             <e p="Debugger.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />

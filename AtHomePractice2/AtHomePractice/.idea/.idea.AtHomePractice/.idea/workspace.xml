@@ -39,6 +39,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable Objects/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Health.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Coroutine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/MouseShooter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable Objects/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/IfElseStatement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/SimpleCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
@@ -96,6 +97,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/InstancingBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/IfElseStatement.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/EnumSwitches.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/MouseShooter.cs" />
       </list>
     </option>
   </component>
@@ -182,6 +184,7 @@
       <workItem from="1593902265428" duration="111000" />
       <workItem from="1594312112183" duration="332000" />
       <workItem from="1594662252752" duration="501000" />
+      <workItem from="1594920802902" duration="530000" />
     </task>
     <servers />
   </component>
