@@ -31,6 +31,7 @@
     <setting file="file://$PROJECT_DIR$/../../../../jayme_1610spring2020/Project1/Assets/scripts/Coroutines.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable Objects/Vector3Data.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/HoldCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Behaviors/TrailRenderBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Flip.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Behaviors/ImageBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/CharacterWeaponSw.cs" root0="FORCE_HIGHLIGHTING" />
@@ -98,6 +99,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/IfElseStatement.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/EnumSwitches.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/MouseShooter.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/TrailRenderBehavior.cs" />
       </list>
     </option>
   </component>
@@ -185,6 +187,7 @@
       <workItem from="1594312112183" duration="332000" />
       <workItem from="1594662252752" duration="501000" />
       <workItem from="1594920802902" duration="530000" />
+      <workItem from="1595088483555" duration="363000" />
     </task>
     <servers />
   </component>
