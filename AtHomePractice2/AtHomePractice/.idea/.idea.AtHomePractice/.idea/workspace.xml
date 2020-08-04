@@ -39,6 +39,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TriggerEnter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable Objects/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Health.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable Objects/ListAndLoops.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Coroutine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/MouseShooter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable Objects/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
@@ -100,6 +101,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/EnumSwitches.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/MouseShooter.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/TrailRenderBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Scriptable Objects/ListAndLoops.cs" />
       </list>
     </option>
   </component>
@@ -188,6 +190,7 @@
       <workItem from="1594662252752" duration="501000" />
       <workItem from="1594920802902" duration="530000" />
       <workItem from="1595088483555" duration="363000" />
+      <workItem from="1596564901925" duration="467000" />
     </task>
     <servers />
   </component>
