@@ -1,37 +1,32 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-public partial class ColorChanger : MonoBehaviour
+public class ColorChanger : MonoBehaviour
 {
-    private Renderer _renderer;
-    private Renderer _renderer1;
-    private Renderer _renderer2;
+    private Renderer colorObj;
 
-    // Start is called before the first frame update
-    public void Start()
+    private void Start()
     {
-        _renderer2 = GetComponent<Renderer>();
-        _renderer1 = GetComponent<Renderer>();
-        _renderer = GetComponent<Renderer>();
+        colorObj = GetComponent<Renderer>();
     }
 
     public void Update()
     {
         if (Input.GetKeyDown(KeyCode.R))
         {
-            _renderer.material.color = Color.red;
+            colorObj.material.color = Color.red;
         }
-
         if (Input.GetKeyDown(KeyCode.G))
         {
-            _renderer1.material.color = Color.green;
+            colorObj.material.color = Color.green;
         }
-
         if (Input.GetKeyDown(KeyCode.B))
         {
-            _renderer2.material.color = Color.blue;
+            colorObj.material.color = Color.blue;
+        }
+
+        if (Input.GetKeyDown(KeyCode.Y))
+        {
+            colorObj.material.color = Color.yellow;
         }
     }
 }
-
