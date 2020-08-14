@@ -25,6 +25,7 @@
           <e p="IfElseStatement.cs" t="Include" />
           <e p="MouseShooter.cs" t="Include" />
           <e p="Scriptable Objects" t="Include">
+            <e p="CollectableList.cs" t="Include" />
             <e p="Debugger.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />
             <e p="IntData.cs" t="Include" />

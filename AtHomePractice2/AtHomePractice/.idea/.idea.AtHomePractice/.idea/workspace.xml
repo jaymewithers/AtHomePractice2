@@ -32,6 +32,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Behaviors/TrailRenderBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Flip.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/CharacterWeaponSw.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable Objects/CollectableList.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Behaviors/BasicTextBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TriggerEnter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable Objects/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -104,6 +105,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/Behaviors/TrailRenderBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Scriptable Objects/ListAndLoops.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Tutorials/ColorChanger.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Scriptable Objects/CollectableList.cs" />
       </list>
     </option>
   </component>
@@ -194,6 +196,7 @@
       <workItem from="1595088483555" duration="363000" />
       <workItem from="1596564901925" duration="467000" />
       <workItem from="1597081238015" duration="575000" />
+      <workItem from="1597372121995" duration="270000" />
     </task>
     <servers />
   </component>
