@@ -42,6 +42,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/MouseShooter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable Objects/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/IfElseStatement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable Objects/Collectable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/SimpleCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Scriptable Objects/IntData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -55,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/scripts/NewClassOne.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/NewClassTwo.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/NewClassThree.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/NewClassFour.cs" />
@@ -106,6 +106,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/Scriptable Objects/ListAndLoops.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Tutorials/ColorChanger.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Scriptable Objects/CollectableList.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Scriptable Objects/Collectable.cs" />
       </list>
     </option>
   </component>
@@ -197,6 +198,7 @@
       <workItem from="1596564901925" duration="467000" />
       <workItem from="1597081238015" duration="575000" />
       <workItem from="1597372121995" duration="270000" />
+      <workItem from="1597596245430" duration="154000" />
     </task>
     <servers />
   </component>
